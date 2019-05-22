@@ -1,2 +1,2 @@
-# SDN-V-A-N-E-T
+# SDN-VANET
 Future Network Research Group of CQUPT 
